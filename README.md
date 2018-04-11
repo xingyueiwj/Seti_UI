@@ -1,5 +1,6 @@
-# Seti
 - sublime text 3 set side bar tree View ->Side Bar ->Show Side Bar
+# Seti
+
 [![Packagecontrol total downloads](https://img.shields.io/packagecontrol/dt/Seti_UI.svg)](https://packagecontrol.io/packages/Seti_UI/)
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/micro/16ri7Hh848bw7vxbEevKHFuHXLmsV8Vc9L)](https://en.cryptobadges.io/donate/16ri7Hh848bw7vxbEevKHFuHXLmsV8Vc9L)
 
